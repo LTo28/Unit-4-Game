@@ -1,0 +1,21 @@
+body {
+  background-image: url(../images/ironthone.jpg);
+  background-repeat: no-repeat;
+}
+#container {
+  margin: 40px;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+h1 {
+  color: white
+}
+h2 {
+  color: white;
+  font: bold
+}
+#results {
+  color: white
+}
